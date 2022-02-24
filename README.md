@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naik-r
+- 👋 Hi, I’m Rahul 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c program 
 
