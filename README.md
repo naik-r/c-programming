@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naik-r
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c program 
 
 
 
